@@ -1,3 +1,5 @@
+x="ashish patel"
+z="ayush"
 x="ashish"
 y="adarsh"
 z="ayush"
